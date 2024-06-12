@@ -21,13 +21,13 @@ return {
 	
 	LrExportMenuItems = {
 		title = "Photo Insight",
-		file = "SinglePhotoDemo.lua",
+		file = "AnalyzeSelectedPhotos.lua",
 	},
 
 	LrLibraryMenuItems = {
 	    {
-		    title = LOC "$$$/PhotoInsight/Demo=Single Photo Demo",
-		    file = "SinglePhotoDemo.lua",
+		    title = LOC "$$$/PhotoInsight/Plugin=Analyze Photos",
+		    file = "AnalyzeSelectedPhotos.lua",
 		},
 	},
 
