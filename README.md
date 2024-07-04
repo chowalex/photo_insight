@@ -3,6 +3,8 @@
 ## Overview
 Photo Insight is a Lightroom plugin that leverages cloud ML models to analyze and tag your photos with descriptive titles and keywords. This plugin helps streamline your photo organization and enhances your workflow by automatically generating meaningful metadata for your images.
 
+If a photo is tagged with GPS coordinates, the location information is passed to the model to help in identifying landmarks and other points of interest.
+
 ## Installation
 * Download the plugin folder
 * Open Lightroom
